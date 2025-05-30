@@ -1,46 +1,91 @@
-# Hi, I'm Rodrigo! 👋
+# 👋 Hi, I'm Rodrigo Salles
 
-I’m a passionate QA Engineer with over 4 years of experience in manual, automated, and performance testing, helping teams build and deliver reliable, fast, and scalable software across web, mobile, and desktop platforms.
+🚀 **QA Engineer | QA Manager | Test Automation | Performance & Security Testing**  
+🎯 Passionate about building **fast, reliable, and secure software** with quality from day one.
 
-Throughout my journey, I’ve developed strong technical skills using tools like Cypress, Playwright, Postman, K6, and programming languages such as JavaScript and TypeScript. I create and maintain end-to-end, API, and performance tests, and integrate them into CI/CD pipelines using GitHub Actions, Jenkins, and Azure DevOps, ensuring that testing is part of the development lifecycle from the very beginning.
+---
 
-Currently, I work as a QA Manager, where I lead test strategy, automation, and quality initiatives across multiple teams. My work is not limited to finding bugs — I’m constantly thinking about how to improve the product, prevent defects, and make testing more intelligent and efficient. I apply Shift-Left Testing, Risk-Based Testing, and performance analysis to make sure we’re not only testing, but truly building quality into every stage of development.
+## 🧠 About Me
 
-I actively collaborate with developers, designers, DevOps engineers, and product managers in agile environments, promoting a culture where quality is a shared responsibility. I mentor other QA professionals, lead best practices, and bring insights that connect testing with business goals. I also contribute to process improvements, automation frameworks, and metrics that support decision-making.
+I’m a QA Engineer with over **4 years of experience** working across **manual**, **automated**, **performance**, and **security testing**. I’ve helped teams deliver scalable and bug-free products across **web**, **mobile**, and **desktop** platforms.
 
-My passion goes beyond traditional testing — I’m highly interested in Artificial Intelligence and how it can enhance QA through smart automation, predictive analysis, and AI-driven test generation. I’m always exploring new tools, technologies, and methodologies to keep evolving and helping my team deliver with speed and confidence.
+As a **QA Manager**, I lead test strategies, build automation frameworks, and apply best practices like **Shift-Left Testing** and **Risk-Based Testing**. My mission is to **embed quality into every stage** of development — not just find bugs, but prevent them.
 
-Certified in CTFL, I believe that quality is not just about testing software, but about creating value, trust, and great user experiences. My mission is to make sure that every product I work on is not only functional, but robust, scalable, and ready for real-world usage.
+✅ CTFL Certified  
+✅ Experience with Agile (Scrum, Kanban)  
+✅ Always learning and exploring **AI-driven QA tools**
 
-Skills & Technologies:
-Test Automation | Manual Testing | API Testing | UI Testing | Performance Testing | Cypress | Playwright | JavaScript | TypeScript | Postman | K6 | CI/CD | GitHub Actions | Jenkins | Azure DevOps | Shift-Left Testing | Risk-Based Testing | Load Testing | Agile (Scrum, Kanban) | CTFL Certified | AI Testing Tools | Quality Strategy | Leadership | Continuous Improvement | Team Collaboration | Bug Prevention
+---
 
-## You can find me
+## 🧰 Skills & Tools
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigosalles7)](https://github.com/rodrigosalles7)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-salles-41bb1b125/)](https://www.linkedin.com/in/rodrigo-salles-41bb1b125/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigosalles7)](https://www.instagram.com/rodrigosalles7)
+### ✅ Testing Expertise
+- **Manual Testing**
+- **Test Automation**: E2E, UI, API
+- **Performance Testing**: Load, Stress, Stability
+- **Security Testing**
+- **Shift-Left & Risk-Based Testing**
 
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🧪 Testing Tools
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2A2A2A?style=for-the-badge&logo=playwright&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-## Programing Languages
+### ⚙️ DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
+### 🧠 Methodologies & Concepts
+![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-5A67D8?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-F78C6B?style=for-the-badge)
 
-## Testing Technologies
+---
 
-### Front-End
-<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+## 📈 What I Bring to the Table
 
-### Back-End
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+- ✅ Full test strategies (manual, automation, performance, and security)
+- ✅ CI/CD integration for fast, automated releases
+- ✅ Strong collaboration with frontend, backend, DevOps & product teams
+- ✅ Data validation and SQL queries for backend testing
+- ✅ Performance analysis using K6 & JMeter
+- ✅ Test plans, reports, and risk analysis that support decision-making
 
-## OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+---
 
-# Others
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+## 📚 Certifications & Education
 
-## Hobby
+- 🎓 **CTFL - Certified Tester Foundation Level** (ISTQB)
+- 🎓 Postgraduate in QA & Software Testing – _In progress_
+- 🎓 B.E. in Control and Automation Engineering
+- 🎓 Technician in Industrial Automation
 
-<img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"> <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/rodrigosalles7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salles-rodrigo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rodrigosalles7)
+
+---
+
+## ⚡ Hobbies & Interests
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+---
