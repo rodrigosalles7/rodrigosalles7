@@ -1,10 +1,19 @@
 # Hi, I'm Rodrigo! 👋
 
-QA professional since 2018, experienced in Android, iOS, desktop, and web projects. Proficient in manual testing for API and UI in web applications.
+I’m a passionate QA Engineer with over 4 years of experience in manual, automated, and performance testing, helping teams build and deliver reliable, fast, and scalable software across web, mobile, and desktop platforms.
 
-Over the last three years, I've focused on software test automation, utilizing tools such as Postman, Cypress, and BDD. Skilled in JavaScript, I've implemented CI/CD pipelines on GitHub Actions for automated regression tests.
+Throughout my journey, I’ve developed strong technical skills using tools like Cypress, Playwright, Postman, K6, and programming languages such as JavaScript and TypeScript. I create and maintain end-to-end, API, and performance tests, and integrate them into CI/CD pipelines using GitHub Actions, Jenkins, and Azure DevOps, ensuring that testing is part of the development lifecycle from the very beginning.
 
-Additionally, I bring one year of experience in performance and load testing using K6, contributing to a comprehensive testing approach for sustained product excellence. Committed to advancing testing methodologies for enhanced team and organizational success.
+Currently, I work as a QA Manager, where I lead test strategy, automation, and quality initiatives across multiple teams. My work is not limited to finding bugs — I’m constantly thinking about how to improve the product, prevent defects, and make testing more intelligent and efficient. I apply Shift-Left Testing, Risk-Based Testing, and performance analysis to make sure we’re not only testing, but truly building quality into every stage of development.
+
+I actively collaborate with developers, designers, DevOps engineers, and product managers in agile environments, promoting a culture where quality is a shared responsibility. I mentor other QA professionals, lead best practices, and bring insights that connect testing with business goals. I also contribute to process improvements, automation frameworks, and metrics that support decision-making.
+
+My passion goes beyond traditional testing — I’m highly interested in Artificial Intelligence and how it can enhance QA through smart automation, predictive analysis, and AI-driven test generation. I’m always exploring new tools, technologies, and methodologies to keep evolving and helping my team deliver with speed and confidence.
+
+Certified in CTFL, I believe that quality is not just about testing software, but about creating value, trust, and great user experiences. My mission is to make sure that every product I work on is not only functional, but robust, scalable, and ready for real-world usage.
+
+Skills & Technologies:
+Test Automation | Manual Testing | API Testing | UI Testing | Performance Testing | Cypress | Playwright | JavaScript | TypeScript | Postman | K6 | CI/CD | GitHub Actions | Jenkins | Azure DevOps | Shift-Left Testing | Risk-Based Testing | Load Testing | Agile (Scrum, Kanban) | CTFL Certified | AI Testing Tools | Quality Strategy | Leadership | Continuous Improvement | Team Collaboration | Bug Prevention
 
 ## You can find me
 
