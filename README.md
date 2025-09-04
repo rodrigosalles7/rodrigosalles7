@@ -67,8 +67,8 @@ As a **QA Manager**, I lead test strategies, build automation frameworks, and ap
 
 ## 📚 Certifications & Education
 
-- 🎓 **CTFL - Certified Tester Foundation Level** (ISTQB)
-- 🎓 Postgraduate in QA & Software Testing – _In progress_
+- 🎓 CTFL - Certified Tester Foundation Level (ISTQB)
+- 🎓 Postgraduate in QA & Software Testing
 - 🎓 B.E. in Control and Automation Engineering
 - 🎓 Technician in Industrial Automation
 
